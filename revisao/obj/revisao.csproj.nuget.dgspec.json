@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leandro\\Documents\\Projeto Dotnet\\revisao\\revisao.csproj": {}
+    "C:\\Users\\Leandro\\Documents\\Projeto .Net\\DotNet\\revisao\\revisao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leandro\\Documents\\Projeto Dotnet\\revisao\\revisao.csproj": {
+    "C:\\Users\\Leandro\\Documents\\Projeto .Net\\DotNet\\revisao\\revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leandro\\Documents\\Projeto Dotnet\\revisao\\revisao.csproj",
+        "projectUniqueName": "C:\\Users\\Leandro\\Documents\\Projeto .Net\\DotNet\\revisao\\revisao.csproj",
         "projectName": "revisao",
-        "projectPath": "C:\\Users\\Leandro\\Documents\\Projeto Dotnet\\revisao\\revisao.csproj",
+        "projectPath": "C:\\Users\\Leandro\\Documents\\Projeto .Net\\DotNet\\revisao\\revisao.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leandro\\Documents\\Projeto Dotnet\\revisao\\obj\\",
+        "outputPath": "C:\\Users\\Leandro\\Documents\\Projeto .Net\\DotNet\\revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

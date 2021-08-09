@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ehQ1FQST+lUmGMzD6vHLNMZmtZ/T0P5I5ESevXYOTFFU/rYCkbb4Tcpa0fRw03u0Yb7GW+gbYUTHkhXUStc6Wg==",
+  "dgSpecHash": "QTmmTcT33DMfhFXc5wQUGl+7q5BXFwzvSurmaCkboVfLmFFLWr4vuvK1lHR7aS/bWqyxtm0zU1ik+Vi5ZR+B9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projeto Dotnet\\revisao\\revisao.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projeto .Net\\DotNet\\revisao\\revisao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
